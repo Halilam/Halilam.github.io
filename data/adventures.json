@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Long Ke Wan, Hong Kong",
+        "coords": [22.3754584,114.3781142],
+        "image": [
+            "/public/images/adv1-001.png",
+            "/public/images/adv1-002.png",
+            "/public/images/adv1-003.png",
+            "/public/images/adv1-004.png",
+            "/public/images/adv1-005.mp4",
+            "/public/images/adv1-006.mp4"
+        ]
+    },
+    {
+        "name": "Warsaw, Poland",
+        "coords": [48.7076634,22.1885609],
+        "image": [
+            "/public/images/adv2-001.JPG",
+            "/public/images/adv2-002.JPG",
+            "/public/images/adv2-003.JPG",
+            "/public/images/adv2-004.JPG"
+        ]
+    }
+]
